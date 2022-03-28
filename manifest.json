@@ -1,0 +1,13 @@
+{
+    "name": "com.farrokh.inventory",
+    "displayName": "Farrokh Inventory",
+    "version": "1.0.0",
+    "unity": "2019.1",
+    "author": "Patrik Liljecrantz",
+    "description": "A Diablo 2-style inventory system for Unity3D",
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AFunGames/Inventory"
+    }
+}
